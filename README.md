@@ -16,6 +16,11 @@ Every incoming email is analyzed by an AI-powered text classifier and assigned t
 
 Based on the classification, the workflow automatically performs a different action.
 
+## 🎥 Demo
+
+▶️ [Watch the Full Workflow Demo](https://drive.google.com/file/d/1-8QVKf6BmOd7G4_hKUKebA76dmH8jspj/view?usp=drive_link)
+
+
 ## Workflow Architecture
 
 ```text
