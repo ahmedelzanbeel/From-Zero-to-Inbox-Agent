@@ -1,4 +1,5 @@
 # From Zero to Inbox Agent
+![From Zero to Inbox Agent Workflow](Screenshots/workflow-overview.png)
 
 An AI-powered Gmail automation workflow built with n8n and Qwen Cloud that automatically classifies incoming emails, routes them to the correct workflow branch, and takes the appropriate action.
 
